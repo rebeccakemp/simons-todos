@@ -3,3 +3,4 @@ add software to computer for mouse
 complain to BT
 complain to nattiest
 set up new camera
+build extension
